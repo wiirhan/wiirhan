@@ -1,0 +1,23 @@
+{
+  "name": "wiirhan",
+  "version": "1.0.0",
+  "description": "<h2> <img src=\"https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316\" width=\"30\" /> Hi, welcome! </h2>",
+  "main": "daily.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiirhan/wiirhan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiirhan/wiirhan/issues"
+  },
+  "homepage": "https://github.com/wiirhan/wiirhan#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
