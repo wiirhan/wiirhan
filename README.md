@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-03-06</kbd>
+<kbd>2022-03-07</kbd>
 
-- 生如蝼蚁，当立鸿鹄之志。命薄如纸，应有不屈之心。大丈夫生于天地间，岂能郁郁久居人下。乾坤未定，你我皆是黑马。
+- 对于可控的事我们保持谨慎，对于不可控的事我们保持乐观。 —— 爱比克泰德
 
 <!-- Randomly taken from quotations.md -->
 
