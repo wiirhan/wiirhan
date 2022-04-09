@@ -4,7 +4,7 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-04-08</kbd>
+<kbd>2022-04-09</kbd>
 
 - 观察得越仔细，越看不清真相。
 
