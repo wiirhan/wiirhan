@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-04-20</kbd>
+<kbd>2022-04-21</kbd>
 
-- 胸怀是被委屈撑大的
+- 当你仰望星辰，请将其中一颗当成我的灵魂。 —— 擎天柱 《变形金刚 4》
 
 <!-- Randomly taken from quotations.md -->
 
