@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-05-13</kbd>
+<kbd>2022-05-14</kbd>
 
-- 有些事本来很遥远，你争取，它就会离你越来越近。
+- 对于可控的事我们保持谨慎，对于不可控的事我们保持乐观。 —— 爱比克泰德
 
 <!-- Randomly taken from quotations.md -->
 
