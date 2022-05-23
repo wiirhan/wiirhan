@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-05-22</kbd>
+<kbd>2022-05-23</kbd>
 
-- 其实我是一个演员。 —— 周星驰 《喜剧之王》
+- 对于可控的事我们保持谨慎，对于不可控的事我们保持乐观。 —— 爱比克泰德
 
 <!-- Randomly taken from quotations.md -->
 
