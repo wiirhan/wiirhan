@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2022-12-08</kbd>
+<kbd>2022-12-09</kbd>
 
-- 胸怀是被委屈撑大的
+- 其实我是一个演员。 —— 周星驰 《喜剧之王》
 
 <!-- Randomly taken from quotations.md -->
 
