@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-01-22</kbd>
+<kbd>2023-01-23</kbd>
 
-- 人心中的成见是一座大山，任你怎么努力都休想搬动，一生中能改变命运的机会可不多呀。 ——《哪吒之魔童降世》
+- 对于可控的事我们保持谨慎，对于不可控的事我们保持乐观。 —— 爱比克泰德
 
 <!-- Randomly taken from quotations.md -->
 
