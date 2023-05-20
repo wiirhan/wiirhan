@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-05-19</kbd>
+<kbd>2023-05-20</kbd>
 
-- 胸怀是被委屈撑大的
+- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
 
 <!-- Randomly taken from quotations.md -->
 
