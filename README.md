@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-06-29</kbd>
+<kbd>2023-06-30</kbd>
 
-- 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
+- Good morning, and in case I don't see you, good afternoon, good evening, and good night! —— The Truman Show
 
 <!-- Randomly taken from quotations.md -->
 
