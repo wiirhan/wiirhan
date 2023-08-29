@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-08-28</kbd>
+<kbd>2023-08-29</kbd>
 
-- 其实我是一个演员。 —— 周星驰 《喜剧之王》
+- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
 
 <!-- Randomly taken from quotations.md -->
 
