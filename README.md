@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-09-03</kbd>
+<kbd>2023-09-04</kbd>
 
-- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
+- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
 
 <!-- Randomly taken from quotations.md -->
 
