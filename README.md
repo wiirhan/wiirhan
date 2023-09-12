@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-09-11</kbd>
+<kbd>2023-09-12</kbd>
 
-- 我将融入剧烈争斗的大人世界，要在那边孤军奋战，必须变得比任何人都坚不可摧。 —— 《海边的卡夫卡》
+- 其实我是一个演员。 —— 周星驰 《喜剧之王》
 
 <!-- Randomly taken from quotations.md -->
 
