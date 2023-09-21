@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-09-20</kbd>
+<kbd>2023-09-21</kbd>
 
-- 你日渐平庸，甘于平庸，将继续平庸。 —— 《以自己喜欢的方式过一生》
+- 人生激越之处，在于永不停息地向前，背负悲凉，仍有勇气迎接朝阳。 —— 萧红
 
 <!-- Randomly taken from quotations.md -->
 
