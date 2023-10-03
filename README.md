@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-10-02</kbd>
+<kbd>2023-10-03</kbd>
 
-- You know some birds are not meant to be caged, their feathers are just too bright. —— The Shawshank Redemption
+- Life was a box of chocolates, you never know what you're gonna get. —— Forrest Gump
 
 <!-- Randomly taken from quotations.md -->
 
