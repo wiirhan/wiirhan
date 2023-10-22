@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-10-21</kbd>
+<kbd>2023-10-22</kbd>
 
-- 你要克服你的虚荣心、你的炫耀欲，和你时刻想要冲出来、想要出风头的小聪明。
+- 其实我是一个演员。 —— 周星驰 《喜剧之王》
 
 <!-- Randomly taken from quotations.md -->
 
