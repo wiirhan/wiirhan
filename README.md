@@ -4,9 +4,9 @@ I'm **wiirhan**, a Front-end developer from **China**.
 
 <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/wiirhan/wiirhan/blob/master/quotations.md"> Daily Quotations</a></h3>
 
-<kbd>2023-11-21</kbd>
+<kbd>2023-11-22</kbd>
 
-- 不管前方的路有多苦，只要走的方向正确，不管多么崎岖不平，都比站在原地更接近幸福。 —— 宫崎骏《千与千寻》
+- 我将融入剧烈争斗的大人世界，要在那边孤军奋战，必须变得比任何人都坚不可摧。 —— 《海边的卡夫卡》
 
 <!-- Randomly taken from quotations.md -->
 
